@@ -9,10 +9,3 @@ With the system keeping a tab of the items your customer wants to order, there w
 Customers can personalize the item before placing the order; they can attach a note
 regarding their preferences for the item like less salt, less spicy etc.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
